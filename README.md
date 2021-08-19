@@ -53,15 +53,15 @@ The command is
 ```git clone [source] [destination]```
 
 For this course, your repository will be created after you accept the assignment at https://classroom.github.com/a/KGymETjw .
-The source will be https://github.com/psu-ds410-Fall-2021/course-homeworks-[github-username].git and you can use ds410-hw as the destination. For example, I would clone the homework repository as:
+The source will be https://github.com/psu-ds410/course-homeworks-[github-username].git and you can use ds410-hw as the destination. For example, I would clone the homework repository as:
 
-```git clone https://github.com/psu-ds410-Fall-2021/course-homeworks-dkifer.git ds410-hw```
+```git clone https://github.com/psu-ds410/course-homeworks-dkifer.git ds410-hw```
 
 (obviously you need to change this a little since your github user name is different than mine).
 
 Once you have cloned a repository, you don't need to clone it again (unless you deleted it from your computer).
 
-**Important** you can also access your repository on the web: https://github.com/psu-ds410-Fall-2021/course-homeworks-[your-github-username]
+**Important** you can also access your repository on the web: https://github.com/psu-ds410/course-homeworks-[your-github-username]
 which is useful because it shows the contents of your remote repository.
 
 ## Staging files (git status and git add)
