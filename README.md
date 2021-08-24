@@ -7,6 +7,8 @@ To create/clone your github classroom repository, see the **cloning a repository
 
 # First use
 
+First, clone your github classroom respository from "cloning a repository" section below.
+
 The first time you clone a github classroom repository, type the following in a linux shell:
 
 ```source ./setup```
