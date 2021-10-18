@@ -1,0 +1,5 @@
+python3 faircount.py $MR_OPT \
+	--jobconf mapred.reduce.tasks=4 \
+	hdfs:///ds410/warandpeace \
+	--output-dir hdfs:///user/mal6131/faircount \
+	--no-output
